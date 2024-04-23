@@ -1,0 +1,20 @@
+   Jan Kowalski 1985-04-12 jan.kowalski@example.com
+Anna Nowak 1990-02-30 anna.nowak@example.com
+        Tomasz Lato 1979-13-01 tomasz.lato@example.com
+Ewa Wiśniewska 1988-11-31 ewa.w@example.com
+Adam Mały 1975-08-15 adam.maly(at)example.com  
+Karolina Duża  karolina.duza@example.com 
+Michał Woda 1982-05-21 michal.woda@example.com
+Beata Kamień 1974-07-13 beata.kamien@example.com
+Krzysztof Piasek 1988-08-30 # Brak adresu email
+Paweł Drzewo 1993-01-28 pawel.drzewo@example.com
+Marta Kwiat 2002-06-14 marta.kwiat@example.com
+Joanna Rzeka 1995-03-19 joanna.rzeka@example.com
+Stefan Bóg 1984-02-29 stefan.bog@example.com  
+Robert Most 1987-04-23 robert.most@example.com
+Julia Młyn 1990-12-12 julia.mlyn@example.com
+Dariusz Żuraw 1972-10-05 dariusz.zuraw@example.com
+Magdalena Las 1986-11-25 magdalena.las@example.com
+Szymon Góra 1994-09-08 szymon.gora@example.com
+Aleksandra Dolina 1991-07-07 aleksandra.dolina@example.com
+Wojciech Niebo 2001-02-28 wojciech.niebo@example.com
